@@ -36,6 +36,11 @@ namespace testegit.Controllers
             return View();
         }
 
+        public IActionResult B()
+        {
+            return View();
+        }
+
         public IActionResult C()
         {
             return View();

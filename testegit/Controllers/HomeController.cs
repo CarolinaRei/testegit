@@ -22,7 +22,10 @@ namespace testegit.Controllers
         {
             return View();
         }
-
+        public IActionResult Produtos()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
